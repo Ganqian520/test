@@ -1,2 +1,2 @@
 master
-10:28
+远程master
